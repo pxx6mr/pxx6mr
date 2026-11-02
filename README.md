@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adrian Camacho-Garcia 👋
 
-<!--
-**pxx6mr/pxx6mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineering student at the University of Virginia** (B.S. expected May 2028), based in Northern Virginia.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Occupancy / foot-traffic predictor:** A personal project combining hardware and machine learning. An ESP32 with a PIR motion sensor sends data over WiFi, and I'm building a model to predict foot traffic from the data it collects.
+
+## What I'm Interested in Learning
+
+- **Machine learning for embedded and edge devices:** running models on small, low-power hardware
+- **Digital signal processing:** taking what I've learned in Signals & Systems into real-time filtering and communication systems
+- **RF and wireless system design**
+- **Chip design and power electronics**
+
+---
+
+## Tools & Technologies
+
+**Languages:** C · Python · Arduino
+**Hardware:** TI LP-MSPM0G3507 LaunchPad · MKII BoosterPack · Arduino UNO · ESP32 · NRF24L01
+**Concepts:** Analog circuit design · Op-amp circuits · Embedded C · SPI / I2C · PWM · AM/FM modulation · Fourier analysis
+**Other:** Jupyter · Git / GitHub
